@@ -1,7 +1,5 @@
 /*
-Beatriz De Almeida Da Silva
 Camila Nunes Carvalho Souza
-Victória D’Amario Gavioli
 */
 
 #include<stdio.h>
